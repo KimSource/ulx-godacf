@@ -3,7 +3,7 @@
 	"name"        "ACF God ULX Command"
 	"version"     "1"
 	"author_name" "Source"
-	"author_url"  ""
+	"author_url"  "https://github.com/KimSource/ulx-godacf"
 	"info"        "ACF God ULX Command"
 	"override"    "0"
 }
