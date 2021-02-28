@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"        "ACF God ULX Command"
+	"version"     "1"
+	"author_name" "Source"
+	"author_url"  ""
+	"info"        "ACF God ULX Command"
+	"override"    "0"
+}
